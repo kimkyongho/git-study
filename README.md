@@ -29,3 +29,4 @@
 - 원격저장소(git remote add origin 원격저장소 주소)
 - 발행하기 (git push origin master)
 - 일반저장소에서 호스팅 저장소로 변경하기 [youtube 영상](https://youtu.be/SNnfbf-LJz4)
+
