@@ -1,0 +1,25 @@
+@charset "utf-8";
+
+body{
+  margin: 0;
+}
+
+.box{
+  width: 300px;
+  height: 100px;
+  margin: 50px;
+  overflow: auto; /* 스크롤바 , hidden, scroll 가능 */
+  background-image: linear-gradient(to right,red,green,blue,yellow,tomato);
+}
+.note1{
+  background-color: yellow;
+  opacity: 0.5;
+}
+.note2{
+  display: none;
+  background-color: pink;
+  
+}
+.message{
+  background-color: skyblue;
+}
