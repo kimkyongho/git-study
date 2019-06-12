@@ -1,0 +1,32 @@
+@charset "utf-8";
+
+body{
+/* background-color: yellow;
+background-image: url("../img/chocolate-islands.jpg");
+background-repeat: no-repeat;
+background-position: 50% 50%;
+background-attachment: fixed; /*가운데에 고정 */
+/* background-size: cover;  전체 이미지 */ 
+background: yellow url("../img/chocolate-islands.jpg") no-repeat 50% 50% /cover fixed;
+
+
+}
+
+.brand{
+  background: pink;
+  border: 10px solid black;
+  width: 300px;
+  height: 300px;
+  /* border-radius:  30px; 모서리 둥글게 */
+  /* border-radius: 50px 0 50px 0/ 50px 0 50px 0;  마름모 */
+  border-radius: 50%; /*동그라미 */
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  transition: all 0.5s; /*마우스 위치 */
+}
+
+.brand:hover{    
+
+   transform: rotate(2turn) /*움직이는 2턴 */
+}
