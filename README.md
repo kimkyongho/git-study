@@ -96,7 +96,8 @@ p {
 - background-attachment(배경이미지 고정 여부)
 - background-size(배경 이미지 크기)
 - background 속성(배경 관련 단축 속성)
-##4일차
+
+## 4일차
 ### 포지션 속성
 - static(기본값)
 - relative(상대배치)
