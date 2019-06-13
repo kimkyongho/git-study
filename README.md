@@ -96,3 +96,24 @@ p {
 - background-attachment(배경이미지 고정 여부)
 - background-size(배경 이미지 크기)
 - background 속성(배경 관련 단축 속성)
+##4일차
+### 포지션 속성
+- static(기본값)
+- relative(상대배치)
+- absolute(절대배치)
+- fixed(고정배치 - 뷰포트 기준)
+- sticky(상대배치+고정배치, relative+fixed - IE11 지원 안함)
+###애니메이션 관련 속성
+- animation
+  + animation-name(필수)
+  + animation-duration(필수) 
+  + animation-fill-mode
+  + animation-delay
+- transform
+  + translate()
+  + scale()
+  + lotate()
+- transition
+  + transition-property
+  + transition-duration
+  + transition-delay
